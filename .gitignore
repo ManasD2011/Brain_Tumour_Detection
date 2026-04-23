@@ -1,0 +1,17 @@
+# Backend ignores
+backend/venv/
+backend/__pycache__/
+backend/uploads/
+backend/outputs/
+backend/final_model.h5
+
+
+# Frontend ignores (backup safety)
+frontend/node_modules/
+frontend/.next/
+
+# General
+.env
+.DS_Store
+Thumbs.db
+

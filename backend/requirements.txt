@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+tensorflow
+nibabel
+numpy
+scikit-image
+opencv-python
+python-multipart
+opencv-python
+
